@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suruthi Madheswaran
 - 👀 I’m interested in  cloud computting
-- 🌱 I’m currently learning ... java ,data structure,python,backend deveolper technology.
+- 🌱 I’m currently learning ... java ,data structure,python,backend developer technology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
